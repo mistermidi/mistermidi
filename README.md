@@ -1,4 +1,4 @@
-### Hi there 👋
+This is the mistermidi.com repository. Elementary with code. Utilizing as midi storage. No mass download of .mid files.
 
 <!--
 **mistermidi/mistermidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
